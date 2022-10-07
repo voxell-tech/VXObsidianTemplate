@@ -1,0 +1,20 @@
+{
+  "trashOption": "system",
+  "vimMode": true,
+  "defaultViewMode": "preview",
+  "spellcheck": true,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "livePreview": false,
+  "promptDelete": false,
+  "attachmentFolderPath": "./",
+  "readableLineLength": true,
+  "tabSize": 5,
+  "rightToLeft": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

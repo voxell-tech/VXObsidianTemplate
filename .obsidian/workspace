@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "4d95e54bc68bbd6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1e821e3327427ff",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c38bc07bd28c760",
+    "type": "split",
+    "children": [
+      {
+        "id": "a150084f150fa226",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6a5edcd628f9a3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "88c7c1bb59c3f3d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5d5d195db75c54d1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 397.5
+  },
+  "right": {
+    "id": "6dc4945d6c19256c",
+    "type": "split",
+    "children": [
+      {
+        "id": "04d76b79f859dd26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b1346eef49d9ccd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "45039c601e29c9a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "62ba7fa01e072a1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "10cecc290c3f9426",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.3350372314453,
+    "collapsed": true
+  },
+  "active": "d1e821e3327427ff",
+  "lastOpenFiles": [
+    "_Excalidraw/Drawing 2022-10-07 16.10.53.excalidraw.md",
+    "_Daily Notes/2022-10-07.md",
+    "Reference Materials/Vivace a Practical Gauss-Seidel Method for Stable Soft Body Dynamics.md",
+    "Reference Materials/_PDFs/Vivace a Practical Gauss-Seidel Method for Stable Soft Body Dynamics.pdf",
+    "University.md",
+    "Untitled.md",
+    "Reference Materials/_TOC - Reference Materials.md",
+    "Reference Materials/Optimized Spatial Hashing for Collision Detection of Deformable Objects.md",
+    "Reference Materials/Detailed Rigid Body Simulation with Extended Position Based Dynamics.md",
+    "Reference Materials/Particle Based Representative-Triangle/Particle Based Representative-Triangles for Fast Collision Detection.md"
+  ]
+}

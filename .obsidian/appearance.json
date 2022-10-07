@@ -1,0 +1,13 @@
+{
+  "cssTheme": "Monokai",
+  "translucency": false,
+  "interfaceFontFamily": "",
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "baseFontSize": 21,
+  "monospaceFontFamily": "Consolas",
+  "textFontFamily": "",
+  "enabledCssSnippets": [
+    "Monokai"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "new-note-folder": "/",
+  "show-relative-date": true,
+  "link-date-to-daily-note": true,
+  "new-line-trigger": "shift-enter",
+  "new-note-template": "_Templates/Project Workflow Template.md",
+  "metadata-keys": [
+    {
+      "metadataKey": "kanban-board",
+      "label": "Kanban Board",
+      "shouldHideLabel": false,
+      "containsMarkdown": false
+    }
+  ],
+  "max-archive-size": 100
+}
