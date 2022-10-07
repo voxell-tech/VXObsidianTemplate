@@ -7,8 +7,13 @@
         "id": "d1e821e3327427ff",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -108,9 +116,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "2d24da42cdddf07e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ],
@@ -123,12 +140,12 @@
   },
   "active": "d1e821e3327427ff",
   "lastOpenFiles": [
+    "README.md",
     "_Excalidraw/Drawing 2022-10-07 16.10.53.excalidraw.md",
     "_Daily Notes/2022-10-07.md",
     "Reference Materials/Vivace a Practical Gauss-Seidel Method for Stable Soft Body Dynamics.md",
     "Reference Materials/_PDFs/Vivace a Practical Gauss-Seidel Method for Stable Soft Body Dynamics.pdf",
     "University.md",
-    "Untitled.md",
     "Reference Materials/_TOC - Reference Materials.md",
     "Reference Materials/Optimized Spatial Hashing for Collision Detection of Deformable Objects.md",
     "Reference Materials/Detailed Rigid Body Simulation with Extended Position Based Dynamics.md",
