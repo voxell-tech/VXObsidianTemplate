@@ -13,7 +13,6 @@ Plugins included:
 6. Excalidraw: https://github.com/zsviczian/obsidian-excalidraw-plugin
 7. Image Toolkit: https://github.com/sissilab/obsidian-image-toolkit
 8. Kanban: https://github.com/mgmeyers/obsidian-kanban
-9. Latex Suite: https://github.com/artisticat1/obsidian-latex-suite
-10. Obsidian Git: https://github.com/denolehov/obsidian-git
-11. Quick Switcher++: https://github.com/darlal/obsidian-switcher-plus
-12. Vimrc Support: https://github.com/esm7/obsidian-vimrc-support
+9. Obsidian Git: https://github.com/denolehov/obsidian-git
+10. Quick Switcher++: https://github.com/darlal/obsidian-switcher-plus
+11. Vimrc Support: https://github.com/esm7/obsidian-vimrc-support
