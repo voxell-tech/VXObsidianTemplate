@@ -9,5 +9,6 @@
   "textFontFamily": "",
   "enabledCssSnippets": [
     "Monokai"
-  ]
+  ],
+  "accentColor": ""
 }
